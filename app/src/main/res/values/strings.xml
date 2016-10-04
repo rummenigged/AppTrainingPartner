@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Training Partner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="menu_drawer1">Refeições</string>
+    <string name="menu_drawer2">Alimentos</string>
+    <string name="menu_drawer3">Configurações</string>
+    <string name="menu_drawer1_1">Café da Manhã</string>
+    <string name="menu_drawer1_2">Merenda da Manhã</string>
+    <string name="menu_drawer1_3">Almoço</string>
+    <string name="menu_drawer1_4">Merenda da Tarde</string>
+    <string name="menu_drawer1_5">Jartar</string>
+    <string name="menu_drawer1_6">Ceia</string>
+
+</resources>
